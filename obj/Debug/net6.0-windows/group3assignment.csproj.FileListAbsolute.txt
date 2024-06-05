@@ -1,0 +1,120 @@
+C:\Users\saesh\source\repos\testing1\bin\Debug\net6.0-windows\group3assignment.exe
+C:\Users\saesh\source\repos\testing1\bin\Debug\net6.0-windows\group3assignment.dll.config
+C:\Users\saesh\source\repos\testing1\bin\Debug\net6.0-windows\group3assignment.deps.json
+C:\Users\saesh\source\repos\testing1\bin\Debug\net6.0-windows\group3assignment.runtimeconfig.json
+C:\Users\saesh\source\repos\testing1\bin\Debug\net6.0-windows\group3assignment.dll
+C:\Users\saesh\source\repos\testing1\bin\Debug\net6.0-windows\ref\group3assignment.dll
+C:\Users\saesh\source\repos\testing1\bin\Debug\net6.0-windows\group3assignment.pdb
+C:\Users\saesh\source\repos\testing1\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\saesh\source\repos\testing1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\saesh\source\repos\testing1\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\saesh\source\repos\testing1\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\saesh\source\repos\testing1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\saesh\source\repos\testing1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\saesh\source\repos\testing1\obj\Debug\net6.0-windows\group3assignment.csproj.AssemblyReference.cache
+C:\Users\saesh\source\repos\testing1\obj\Debug\net6.0-windows\group3assignment.MainMenu.resources
+C:\Users\saesh\source\repos\testing1\obj\Debug\net6.0-windows\group3assignment.receptionistRegistration.resources
+C:\Users\saesh\source\repos\testing1\obj\Debug\net6.0-windows\group3assignment.technicianRegistration.resources
+C:\Users\saesh\source\repos\testing1\obj\Debug\net6.0-windows\group3assignment.viewMonthlyReport.resources
+C:\Users\saesh\source\repos\testing1\obj\Debug\net6.0-windows\group3assignment.viewTotalMonthIncome.resources
+C:\Users\saesh\source\repos\testing1\obj\Debug\net6.0-windows\group3assignment.AddCustomer.resources
+C:\Users\saesh\source\repos\testing1\obj\Debug\net6.0-windows\group3assignment.Login.resources
+C:\Users\saesh\source\repos\testing1\obj\Debug\net6.0-windows\group3assignment.Payment.resources
+C:\Users\saesh\source\repos\testing1\obj\Debug\net6.0-windows\group3assignment.ReceptionistHome.resources
+C:\Users\saesh\source\repos\testing1\obj\Debug\net6.0-windows\group3assignment.Update_Profile.resources
+C:\Users\saesh\source\repos\testing1\obj\Debug\net6.0-windows\group3assignment.AddDescription.resources
+C:\Users\saesh\source\repos\testing1\obj\Debug\net6.0-windows\group3assignment.TechnicianHome.resources
+C:\Users\saesh\source\repos\testing1\obj\Debug\net6.0-windows\group3assignment.UpdateTechnician.resources
+C:\Users\saesh\source\repos\testing1\obj\Debug\net6.0-windows\group3assignment.ViewService.resources
+C:\Users\saesh\source\repos\testing1\obj\Debug\net6.0-windows\group3assignment.csproj.GenerateResource.cache
+C:\Users\saesh\source\repos\testing1\obj\Debug\net6.0-windows\group3assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saesh\source\repos\testing1\obj\Debug\net6.0-windows\group3assignment.AssemblyInfoInputs.cache
+C:\Users\saesh\source\repos\testing1\obj\Debug\net6.0-windows\group3assignment.AssemblyInfo.cs
+C:\Users\saesh\source\repos\testing1\obj\Debug\net6.0-windows\group3assignment.csproj.CoreCompileInputs.cache
+C:\Users\saesh\source\repos\testing1\obj\Debug\net6.0-windows\group3assignment.csproj.CopyComplete
+C:\Users\saesh\source\repos\testing1\obj\Debug\net6.0-windows\group3assignment.dll
+C:\Users\saesh\source\repos\testing1\obj\Debug\net6.0-windows\ref\group3assignment.dll
+C:\Users\saesh\source\repos\testing1\obj\Debug\net6.0-windows\group3assignment.pdb
+C:\Users\saesh\source\repos\testing1\obj\Debug\net6.0-windows\group3assignment.genruntimeconfig.cache
+C:\Users\kings\Downloads\New folder\testing1\obj\Debug\net6.0-windows\group3assignment.csproj.AssemblyReference.cache
+C:\Users\kings\Downloads\New folder\testing1\obj\Debug\net6.0-windows\group3assignment.MainMenu.resources
+C:\Users\kings\Downloads\New folder\testing1\obj\Debug\net6.0-windows\group3assignment.receptionistRegistration.resources
+C:\Users\kings\Downloads\New folder\testing1\obj\Debug\net6.0-windows\group3assignment.viewTotalMonthIncome.resources
+C:\Users\kings\Downloads\New folder\testing1\obj\Debug\net6.0-windows\group3assignment.AddCustomer.resources
+C:\Users\kings\Downloads\New folder\testing1\obj\Debug\net6.0-windows\group3assignment.Login.resources
+C:\Users\kings\Downloads\New folder\testing1\obj\Debug\net6.0-windows\group3assignment.Payment.resources
+C:\Users\kings\Downloads\New folder\testing1\obj\Debug\net6.0-windows\group3assignment.ReceptionistHome.resources
+C:\Users\kings\Downloads\New folder\testing1\obj\Debug\net6.0-windows\group3assignment.Update_Profile.resources
+C:\Users\kings\Downloads\New folder\testing1\obj\Debug\net6.0-windows\group3assignment.AddDescription.resources
+C:\Users\kings\Downloads\New folder\testing1\obj\Debug\net6.0-windows\group3assignment.TechnicianHome.resources
+C:\Users\kings\Downloads\New folder\testing1\obj\Debug\net6.0-windows\group3assignment.UpdateTechnician.resources
+C:\Users\kings\Downloads\New folder\testing1\obj\Debug\net6.0-windows\group3assignment.ViewService.resources
+C:\Users\kings\Downloads\New folder\testing1\obj\Debug\net6.0-windows\group3assignment.csproj.GenerateResource.cache
+C:\Users\kings\Downloads\New folder\testing1\obj\Debug\net6.0-windows\group3assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kings\Downloads\New folder\testing1\obj\Debug\net6.0-windows\group3assignment.AssemblyInfoInputs.cache
+C:\Users\kings\Downloads\New folder\testing1\obj\Debug\net6.0-windows\group3assignment.AssemblyInfo.cs
+C:\Users\kings\Downloads\New folder\testing1\obj\Debug\net6.0-windows\group3assignment.csproj.CoreCompileInputs.cache
+C:\Users\kings\Downloads\New folder\testing1\obj\Debug\net6.0-windows\group3assignment.dll
+C:\Users\kings\Downloads\New folder\testing1\obj\Debug\net6.0-windows\ref\group3assignment.dll
+C:\Users\kings\Downloads\New folder\testing1\obj\Debug\net6.0-windows\group3assignment.pdb
+C:\Users\kings\Downloads\New folder\testing1\obj\Debug\net6.0-windows\group3assignment.Admin.technicaianRegister.resources
+C:\Users\kings\Downloads\New folder\testing1\obj\Debug\net6.0-windows\group3assignment.Admin.MonthlyReport.resources
+C:\Users\kings\Downloads\New folder\testing1\bin\Debug\net6.0-windows\group3assignment.exe
+C:\Users\kings\Downloads\New folder\testing1\bin\Debug\net6.0-windows\group3assignment.dll.config
+C:\Users\kings\Downloads\New folder\testing1\bin\Debug\net6.0-windows\group3assignment.deps.json
+C:\Users\kings\Downloads\New folder\testing1\bin\Debug\net6.0-windows\group3assignment.runtimeconfig.json
+C:\Users\kings\Downloads\New folder\testing1\bin\Debug\net6.0-windows\group3assignment.dll
+C:\Users\kings\Downloads\New folder\testing1\bin\Debug\net6.0-windows\ref\group3assignment.dll
+C:\Users\kings\Downloads\New folder\testing1\bin\Debug\net6.0-windows\group3assignment.pdb
+C:\Users\kings\Downloads\New folder\testing1\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\kings\Downloads\New folder\testing1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\kings\Downloads\New folder\testing1\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\kings\Downloads\New folder\testing1\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\kings\Downloads\New folder\testing1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kings\Downloads\New folder\testing1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kings\Downloads\New folder\testing1\obj\Debug\net6.0-windows\group3assignment.csproj.CopyComplete
+C:\Users\kings\Downloads\New folder\testing1\obj\Debug\net6.0-windows\group3assignment.genruntimeconfig.cache
+E:\testing1v2\testing1\bin\Debug\net6.0-windows\group3assignment.exe
+E:\testing1v2\testing1\bin\Debug\net6.0-windows\group3assignment.dll.config
+E:\testing1v2\testing1\bin\Debug\net6.0-windows\group3assignment.deps.json
+E:\testing1v2\testing1\bin\Debug\net6.0-windows\group3assignment.runtimeconfig.json
+E:\testing1v2\testing1\bin\Debug\net6.0-windows\group3assignment.dll
+E:\testing1v2\testing1\bin\Debug\net6.0-windows\ref\group3assignment.dll
+E:\testing1v2\testing1\bin\Debug\net6.0-windows\group3assignment.pdb
+E:\testing1v2\testing1\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+E:\testing1v2\testing1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+E:\testing1v2\testing1\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+E:\testing1v2\testing1\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+E:\testing1v2\testing1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\testing1v2\testing1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\testing1v2\testing1\obj\Debug\net6.0-windows\group3assignment.csproj.AssemblyReference.cache
+E:\testing1v2\testing1\obj\Debug\net6.0-windows\group3assignment.MainMenu.resources
+E:\testing1v2\testing1\obj\Debug\net6.0-windows\group3assignment.Admin.MonthlyReport.resources
+E:\testing1v2\testing1\obj\Debug\net6.0-windows\group3assignment.receptionistRegistration.resources
+E:\testing1v2\testing1\obj\Debug\net6.0-windows\group3assignment.Admin.technicaianRegister.resources
+E:\testing1v2\testing1\obj\Debug\net6.0-windows\group3assignment.viewTotalMonthIncome.resources
+E:\testing1v2\testing1\obj\Debug\net6.0-windows\group3assignment.AddCustomer.resources
+E:\testing1v2\testing1\obj\Debug\net6.0-windows\group3assignment.Login.resources
+E:\testing1v2\testing1\obj\Debug\net6.0-windows\group3assignment.Payment.resources
+E:\testing1v2\testing1\obj\Debug\net6.0-windows\group3assignment.ReceptionistHome.resources
+E:\testing1v2\testing1\obj\Debug\net6.0-windows\group3assignment.Update_Profile.resources
+E:\testing1v2\testing1\obj\Debug\net6.0-windows\group3assignment.AddDescription.resources
+E:\testing1v2\testing1\obj\Debug\net6.0-windows\group3assignment.TechnicianHome.resources
+E:\testing1v2\testing1\obj\Debug\net6.0-windows\group3assignment.UpdateTechnician.resources
+E:\testing1v2\testing1\obj\Debug\net6.0-windows\group3assignment.ViewService.resources
+E:\testing1v2\testing1\obj\Debug\net6.0-windows\group3assignment.csproj.GenerateResource.cache
+E:\testing1v2\testing1\obj\Debug\net6.0-windows\group3assignment.GeneratedMSBuildEditorConfig.editorconfig
+E:\testing1v2\testing1\obj\Debug\net6.0-windows\group3assignment.AssemblyInfoInputs.cache
+E:\testing1v2\testing1\obj\Debug\net6.0-windows\group3assignment.AssemblyInfo.cs
+E:\testing1v2\testing1\obj\Debug\net6.0-windows\group3assignment.csproj.CoreCompileInputs.cache
+E:\testing1v2\testing1\obj\Debug\net6.0-windows\group3assignment.csproj.CopyComplete
+E:\testing1v2\testing1\obj\Debug\net6.0-windows\group3assignment.dll
+E:\testing1v2\testing1\obj\Debug\net6.0-windows\ref\group3assignment.dll
+E:\testing1v2\testing1\obj\Debug\net6.0-windows\group3assignment.pdb
+E:\testing1v2\testing1\obj\Debug\net6.0-windows\group3assignment.genruntimeconfig.cache
+E:\testing1v2\testing1\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+E:\testing1v2\testing1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+E:\testing1v2\testing1\obj\Debug\net6.0-windows\group3assignment.frmCustomer.resources
+E:\testing1v2\testing1\obj\Debug\net6.0-windows\group3assignment.UpdateProfile.resources
+E:\testing1v2\testing1\obj\Debug\net6.0-windows\group3assignment.UpdateService.resources
+E:\testing1v2\testing1\obj\Debug\net6.0-windows\group3assignment.ViewDescriptionDateAmount.resources
